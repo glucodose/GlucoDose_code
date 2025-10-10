@@ -1,0 +1,10 @@
+{
+  "enableSMB_after_carbs": true,
+  "enableSMB_with_COB": true,
+  "enableSMB_with_temptarget": true,
+  "enableUAM": true,
+  "enableSMB_always": true,
+  "allowSMB_with_high_temptarget": true,
+  "maxSMBBasalMinutes": 120,
+  "maxUAMSMBBasalMinutes": 120
+}
