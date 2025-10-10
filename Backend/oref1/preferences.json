@@ -1,3 +1,8 @@
+
+// So this preference file is imp because it has all the flags which enables the oref1 and 
+// we have to use the oref0 but with this flags all enabled to make it work as a oref1
+
+
 {
   "enableSMB_after_carbs": true,
   "enableSMB_with_COB": true,
@@ -8,3 +13,4 @@
   "maxSMBBasalMinutes": 120,
   "maxUAMSMBBasalMinutes": 120
 }
+
